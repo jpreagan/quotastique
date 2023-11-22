@@ -1,0 +1,17 @@
+{
+  "name": "quotastique",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0"
+  }
+}

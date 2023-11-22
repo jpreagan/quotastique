@@ -1,0 +1,8 @@
+api
+node_modules
+package-lock.json
+
+packages/web/.cache
+packages/web/build
+packages/web/public/build
+packages/web/.env
